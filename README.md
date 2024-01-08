@@ -10,7 +10,7 @@ For more details about JLL packages and how to use them, see `BinaryBuilder.jl` 
 
 The tarballs for `MAGEMin_jll.jl` have been built from these sources:
 
-* git repository: https://github.com/boriskaus/MAGEMin_dev (revision: `3545813406b1a2969261fdf5b7c4268948db0775`)
+* git repository: https://github.com/boriskaus/MAGEMin_dev (revision: `3089a042ef46f46de753a4f45060da16fb82fa63`)
 
 ## Platforms
 
