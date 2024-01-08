@@ -1,0 +1,22 @@
+[[MAGEMin]]
+arch = "x86_64"
+git-tree-sha1 = "90f9f37aa7a56b18721f0ff7327b73d9fa240aef"
+lazy = true
+libgfortran_version = "4.0.0"
+mpi = "microsoftmpi"
+os = "windows"
+
+    [[MAGEMin.download]]
+    sha256 = "64fe0aef7c611136db98d9c50425201f130ab5e385bd4bd84e5f42b0333a1c5d"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.x86_64-w64-mingw32-libgfortran4-mpi+microsoftmpi.tar.gz"
+[[MAGEMin]]
+arch = "x86_64"
+git-tree-sha1 = "b5e52c0bda38bf1fd0e930000354704945c606c8"
+lazy = true
+libgfortran_version = "5.0.0"
+mpi = "microsoftmpi"
+os = "windows"
+
+    [[MAGEMin.download]]
+    sha256 = "53c170c33519c9692e64fce63fb4a6612df0e76e62afb44b7158b3a38f702dac"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.x86_64-w64-mingw32-libgfortran5-mpi+microsoftmpi.tar.gz"
