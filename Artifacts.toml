@@ -994,12 +994,12 @@ os = "windows"
     url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.x86_64-w64-mingw32-libgfortran5-mpi+microsoftmpi.tar.gz"
 [[MAGEMin]]
 arch = "aarch64"
-git-tree-sha1 = "60eaf0acca73a997e6e746e7e316cc93a072b0c1"
+git-tree-sha1 = "525c9ec95718402bc7e684cbca077c497724d873"
 lazy = true
 libgfortran_version = "5.0.0"
 mpi = "mpich"
 os = "macos"
 
     [[MAGEMin.download]]
-    sha256 = "173f0d628e8a029542b4d35e845320ea9c4815b08754f1d525dfdc53893f274e"
+    sha256 = "490fb99161e0f33ca625970defb980e1c601cb51f898ae745d88cf835743013c"
     url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.aarch64-apple-darwin-libgfortran5-mpi+mpich.tar.gz"
