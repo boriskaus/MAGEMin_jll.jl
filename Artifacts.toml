@@ -1002,4 +1002,4 @@ os = "macos"
 
     [[MAGEMin.download]]
     sha256 = "490fb99161e0f33ca625970defb980e1c601cb51f898ae745d88cf835743013c"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.aarch64-apple-darwin-libgfortran5-mpi+mpich.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.aarch64-apple-darwin-libgfortran5-mpi+mpich.tar.gz"

@@ -1,6 +1,6 @@
 name = "MAGEMin_jll"
 uuid = "763ebaa8-b0d2-5f6b-90ef-4fc23b5db1c4"
-version = "1.4.0+0"
+version = "1.4.1+0"
 
 [deps]
 MPIPreferences = "3da0fdf6-3ccc-4f1b-acd9-58baa6c99267"
