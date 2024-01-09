@@ -1,5 +1,16 @@
 [[MAGEMin]]
 arch = "aarch64"
+git-tree-sha1 = "60eaf0acca73a997e6e746e7e316cc93a072b0c1"
+lazy = true
+libgfortran_version = "5.0.0"
+mpi = "mpich"
+os = "macos"
+
+    [[MAGEMin.download]]
+    sha256 = "173f0d628e8a029542b4d35e845320ea9c4815b08754f1d525dfdc53893f274e"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.aarch64-apple-darwin-libgfortran5-mpi+mpich.tar.gz"
+[[MAGEMin]]
+arch = "aarch64"
 git-tree-sha1 = "b4b023c8b779f8451dc9ccce01c84d0f074c81a5"
 lazy = true
 libgfortran_version = "5.0.0"
@@ -8,7 +19,7 @@ os = "macos"
 
     [[MAGEMin.download]]
     sha256 = "51fc8d2b42321152cdd6c082ddb475762e920af2fff1538e4cbadaad20211293"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.aarch64-apple-darwin-libgfortran5-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.aarch64-apple-darwin-libgfortran5-mpi+mpitrampoline.tar.gz"
 [[MAGEMin]]
 arch = "aarch64"
 git-tree-sha1 = "bc6ccb7e65f93c7e834dac13f6be7aa5c3b14673"
@@ -19,7 +30,7 @@ os = "macos"
 
     [[MAGEMin.download]]
     sha256 = "93ff08856ea826451fee0dbbf0e2592cdbab13aa4c1d3b57f5470cda56600fff"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.aarch64-apple-darwin-libgfortran5-mpi+openmpi.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.aarch64-apple-darwin-libgfortran5-mpi+openmpi.tar.gz"
 [[MAGEMin]]
 arch = "aarch64"
 git-tree-sha1 = "5beac81ceb31d315412926e6ebf3bfaa0c97f4bd"
@@ -31,7 +42,7 @@ os = "linux"
 
     [[MAGEMin.download]]
     sha256 = "4521cb921466d8b1071bdf016390ea0cf54b97d7f39349b46c72e98be810c962"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.aarch64-linux-gnu-libgfortran3-mpi+mpich.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.aarch64-linux-gnu-libgfortran3-mpi+mpich.tar.gz"
 [[MAGEMin]]
 arch = "aarch64"
 git-tree-sha1 = "f3a45952030c1c996fdc929288e445448c8e9659"
@@ -43,7 +54,7 @@ os = "linux"
 
     [[MAGEMin.download]]
     sha256 = "31778c76736ed7a47aa372d42d2616dd972ec94e2638f5bc0c34701a9b765919"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.aarch64-linux-gnu-libgfortran3-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.aarch64-linux-gnu-libgfortran3-mpi+mpitrampoline.tar.gz"
 [[MAGEMin]]
 arch = "aarch64"
 git-tree-sha1 = "82b867ee52dafab6f0187a1d6a8d301beb5e49b5"
@@ -55,7 +66,7 @@ os = "linux"
 
     [[MAGEMin.download]]
     sha256 = "bafd428b1aebd6d1a046f925a7d2c057a9d611a23b58668c6137d54c0f9e2758"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.aarch64-linux-gnu-libgfortran3-mpi+openmpi.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.aarch64-linux-gnu-libgfortran3-mpi+openmpi.tar.gz"
 [[MAGEMin]]
 arch = "aarch64"
 git-tree-sha1 = "30216a20c52bbf700ffc6a9560e2642672e7a11d"
@@ -67,7 +78,7 @@ os = "linux"
 
     [[MAGEMin.download]]
     sha256 = "a2dda74bbbca640228e3a1224fb66b6d6a6c40be6dbee39c268996486d077000"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.aarch64-linux-gnu-libgfortran4-mpi+mpich.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.aarch64-linux-gnu-libgfortran4-mpi+mpich.tar.gz"
 [[MAGEMin]]
 arch = "aarch64"
 git-tree-sha1 = "c0b6a1dbbf4244026cddb25b75d643b9e329cc0f"
@@ -79,7 +90,7 @@ os = "linux"
 
     [[MAGEMin.download]]
     sha256 = "9973edf418c1d83911dc3c13af3b209489ea191d286899a0dbc3fe0f4ae6834b"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.aarch64-linux-gnu-libgfortran4-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.aarch64-linux-gnu-libgfortran4-mpi+mpitrampoline.tar.gz"
 [[MAGEMin]]
 arch = "aarch64"
 git-tree-sha1 = "c8c4bb19eacba36c8af3151e2e020007a32db42b"
@@ -91,7 +102,7 @@ os = "linux"
 
     [[MAGEMin.download]]
     sha256 = "d9005f26efab7f653b016f4a70259b6042c590796bd8f1c67e6b96ac9568517d"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.aarch64-linux-gnu-libgfortran4-mpi+openmpi.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.aarch64-linux-gnu-libgfortran4-mpi+openmpi.tar.gz"
 [[MAGEMin]]
 arch = "aarch64"
 git-tree-sha1 = "00a58f4fbc5ca1c90798478b00f65b5bb05c2fd2"
@@ -103,7 +114,7 @@ os = "linux"
 
     [[MAGEMin.download]]
     sha256 = "1289ac9d87c05ed7fde3a9c13c98f9553f55d2e8cc0c85da24e7d797effef29c"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.aarch64-linux-gnu-libgfortran5-mpi+mpich.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.aarch64-linux-gnu-libgfortran5-mpi+mpich.tar.gz"
 [[MAGEMin]]
 arch = "aarch64"
 git-tree-sha1 = "5bcbec05175a71b143a38fa0fcaac507483c9460"
@@ -115,7 +126,7 @@ os = "linux"
 
     [[MAGEMin.download]]
     sha256 = "2916e68b5eaaaa1d0b31de34e5178ba2f8bc423d1bcb6ec354ccefa1bbdeb630"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.aarch64-linux-gnu-libgfortran5-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.aarch64-linux-gnu-libgfortran5-mpi+mpitrampoline.tar.gz"
 [[MAGEMin]]
 arch = "aarch64"
 git-tree-sha1 = "8f5a1f51e046570f6fad42a857ac81362c882ca3"
@@ -127,7 +138,7 @@ os = "linux"
 
     [[MAGEMin.download]]
     sha256 = "14dee789eb085ce3ec1446a1330329f9def686bd6bc196b33ac7ace85aaece52"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.aarch64-linux-gnu-libgfortran5-mpi+openmpi.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.aarch64-linux-gnu-libgfortran5-mpi+openmpi.tar.gz"
 [[MAGEMin]]
 arch = "aarch64"
 git-tree-sha1 = "c2c724891e2805bee5538d8da397fb422da9bd5d"
@@ -139,7 +150,7 @@ os = "linux"
 
     [[MAGEMin.download]]
     sha256 = "348432c7c2153b49cee64b90687e2f40f0508909d8000fdfd6c330b373a0c0e9"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.aarch64-linux-musl-libgfortran3-mpi+mpich.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.aarch64-linux-musl-libgfortran3-mpi+mpich.tar.gz"
 [[MAGEMin]]
 arch = "aarch64"
 git-tree-sha1 = "060408e18cbbc18f0dff02c9ba9436e2ccfac87a"
@@ -151,7 +162,7 @@ os = "linux"
 
     [[MAGEMin.download]]
     sha256 = "f7de3b1bcd66a3be9fcb4e2004587927896c4db9784771e25652c636058e8527"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.aarch64-linux-musl-libgfortran3-mpi+openmpi.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.aarch64-linux-musl-libgfortran3-mpi+openmpi.tar.gz"
 [[MAGEMin]]
 arch = "aarch64"
 git-tree-sha1 = "753fa5151d8bb279e99e6fc61e2a67eed2f2cfa0"
@@ -163,7 +174,7 @@ os = "linux"
 
     [[MAGEMin.download]]
     sha256 = "e8b2a6a3f08547da86aeb4a4179003701fd66dcf5e484c5a203e69fa36bcb7d5"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.aarch64-linux-musl-libgfortran4-mpi+mpich.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.aarch64-linux-musl-libgfortran4-mpi+mpich.tar.gz"
 [[MAGEMin]]
 arch = "aarch64"
 git-tree-sha1 = "7c167ea05962ee23f8b5a3bb021ed72ac3f1253f"
@@ -175,7 +186,7 @@ os = "linux"
 
     [[MAGEMin.download]]
     sha256 = "bfe51ada5a9febae3219062dd8d51f927842c13d0cd6b3bffccde379c4395e23"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.aarch64-linux-musl-libgfortran4-mpi+openmpi.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.aarch64-linux-musl-libgfortran4-mpi+openmpi.tar.gz"
 [[MAGEMin]]
 arch = "aarch64"
 git-tree-sha1 = "293ef379f78f73fb17c4d23456bbf7694bb8a6aa"
@@ -187,7 +198,7 @@ os = "linux"
 
     [[MAGEMin.download]]
     sha256 = "dfc4cffcc31d5bfaa9d8c44f9b16e436310ab34d41471cccea005d9beef08f1e"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.aarch64-linux-musl-libgfortran5-mpi+mpich.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.aarch64-linux-musl-libgfortran5-mpi+mpich.tar.gz"
 [[MAGEMin]]
 arch = "aarch64"
 git-tree-sha1 = "ad25868d06c0f003e6fb9ac3d65df58247ca97f0"
@@ -199,7 +210,7 @@ os = "linux"
 
     [[MAGEMin.download]]
     sha256 = "2baaf7687833bb767c4ad3145f578d11dbabb2cfcf090bfe3288d841e07a665c"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.aarch64-linux-musl-libgfortran5-mpi+openmpi.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.aarch64-linux-musl-libgfortran5-mpi+openmpi.tar.gz"
 [[MAGEMin]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -212,7 +223,7 @@ os = "linux"
 
     [[MAGEMin.download]]
     sha256 = "f2f2e80bac1ff11418b7f6037c12132d6b486e6222d87b212e452b87704335ef"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.armv6l-linux-gnueabihf-libgfortran3-mpi+mpich.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.armv6l-linux-gnueabihf-libgfortran3-mpi+mpich.tar.gz"
 [[MAGEMin]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -225,7 +236,7 @@ os = "linux"
 
     [[MAGEMin.download]]
     sha256 = "55bb6f54d324cb21d7bfff19234c8d1fdcab2de3173359b47a1642185dec0f43"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.armv6l-linux-gnueabihf-libgfortran3-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.armv6l-linux-gnueabihf-libgfortran3-mpi+mpitrampoline.tar.gz"
 [[MAGEMin]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -238,7 +249,7 @@ os = "linux"
 
     [[MAGEMin.download]]
     sha256 = "6a3290715d5784f3b18932a4871d35131a31f39a96eaa02b8f9f86cf6c327485"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.armv6l-linux-gnueabihf-libgfortran4-mpi+mpich.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.armv6l-linux-gnueabihf-libgfortran4-mpi+mpich.tar.gz"
 [[MAGEMin]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -251,7 +262,7 @@ os = "linux"
 
     [[MAGEMin.download]]
     sha256 = "3b9645b093f2d1010ab48b94d333900056a98da313eae957eaa238164ae33b0e"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.armv6l-linux-gnueabihf-libgfortran4-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.armv6l-linux-gnueabihf-libgfortran4-mpi+mpitrampoline.tar.gz"
 [[MAGEMin]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -264,7 +275,7 @@ os = "linux"
 
     [[MAGEMin.download]]
     sha256 = "ff48a07b1bb00b57f30fa92c3c681a22fbbe4ee968bf8b827b9a9a716e4b7ad6"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.armv6l-linux-gnueabihf-libgfortran5-mpi+mpich.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.armv6l-linux-gnueabihf-libgfortran5-mpi+mpich.tar.gz"
 [[MAGEMin]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -277,7 +288,7 @@ os = "linux"
 
     [[MAGEMin.download]]
     sha256 = "72eb5ee679d8227d2ec17475f33280b38ebbf8cdc3a9009540576e001b06f707"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.armv6l-linux-gnueabihf-libgfortran5-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.armv6l-linux-gnueabihf-libgfortran5-mpi+mpitrampoline.tar.gz"
 [[MAGEMin]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -290,7 +301,7 @@ os = "linux"
 
     [[MAGEMin.download]]
     sha256 = "840c2e2f05eef243f533d699477c1f950e52e5d2793c4221cbc0fbfceed8f7fb"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.armv6l-linux-musleabihf-libgfortran3-mpi+mpich.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.armv6l-linux-musleabihf-libgfortran3-mpi+mpich.tar.gz"
 [[MAGEMin]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -303,7 +314,7 @@ os = "linux"
 
     [[MAGEMin.download]]
     sha256 = "5e742ea66a6f808fea731f798b2a041775ff81c2e4c171ea9a37c647d91ec872"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.armv6l-linux-musleabihf-libgfortran4-mpi+mpich.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.armv6l-linux-musleabihf-libgfortran4-mpi+mpich.tar.gz"
 [[MAGEMin]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -316,7 +327,7 @@ os = "linux"
 
     [[MAGEMin.download]]
     sha256 = "9e3e5fa243f1a0434ecfff054cb281b57a7db83e3358fc87cc60f794364350f2"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.armv6l-linux-musleabihf-libgfortran5-mpi+mpich.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.armv6l-linux-musleabihf-libgfortran5-mpi+mpich.tar.gz"
 [[MAGEMin]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -329,7 +340,7 @@ os = "linux"
 
     [[MAGEMin.download]]
     sha256 = "5cb51108263f6c9b5a3148b69f81d229d72879ac4e360245efb5ecb7cbf37a21"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.armv7l-linux-gnueabihf-libgfortran3-mpi+mpich.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.armv7l-linux-gnueabihf-libgfortran3-mpi+mpich.tar.gz"
 [[MAGEMin]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -342,7 +353,7 @@ os = "linux"
 
     [[MAGEMin.download]]
     sha256 = "17d034a24bf80b5b096046bd8b914f75d1639bca34516afc9a6417b201a407ff"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.armv7l-linux-gnueabihf-libgfortran3-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.armv7l-linux-gnueabihf-libgfortran3-mpi+mpitrampoline.tar.gz"
 [[MAGEMin]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -355,7 +366,7 @@ os = "linux"
 
     [[MAGEMin.download]]
     sha256 = "f312963c58d160e0c2bae5e4c2d3ebf0a330d9c256f6135036fc8d00e7af593a"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.armv7l-linux-gnueabihf-libgfortran4-mpi+mpich.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.armv7l-linux-gnueabihf-libgfortran4-mpi+mpich.tar.gz"
 [[MAGEMin]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -368,7 +379,7 @@ os = "linux"
 
     [[MAGEMin.download]]
     sha256 = "40d06efa904fe0c4c585274d23c3e8742714898d6b99fd57994fd990adbfde41"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.armv7l-linux-gnueabihf-libgfortran4-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.armv7l-linux-gnueabihf-libgfortran4-mpi+mpitrampoline.tar.gz"
 [[MAGEMin]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -381,7 +392,7 @@ os = "linux"
 
     [[MAGEMin.download]]
     sha256 = "37b777ba3030cf3fd05eb4fdaf79c1636538cc74dda937faad448240b63cfc22"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.armv7l-linux-gnueabihf-libgfortran5-mpi+mpich.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.armv7l-linux-gnueabihf-libgfortran5-mpi+mpich.tar.gz"
 [[MAGEMin]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -394,7 +405,7 @@ os = "linux"
 
     [[MAGEMin.download]]
     sha256 = "36b0f78564a9a889e279c537f720ca41632963cb81e1a85873c6764c687ad704"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.armv7l-linux-gnueabihf-libgfortran5-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.armv7l-linux-gnueabihf-libgfortran5-mpi+mpitrampoline.tar.gz"
 [[MAGEMin]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -407,7 +418,7 @@ os = "linux"
 
     [[MAGEMin.download]]
     sha256 = "037721fde81015b8b262ea5bf53d505b563e7454e4f2c4132b676bf05eb48c56"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.armv7l-linux-musleabihf-libgfortran3-mpi+mpich.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.armv7l-linux-musleabihf-libgfortran3-mpi+mpich.tar.gz"
 [[MAGEMin]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -420,7 +431,7 @@ os = "linux"
 
     [[MAGEMin.download]]
     sha256 = "87106f2f4820d2cf02899d60badda21cf8a3c05c20023e15dd4b9132c47f4df7"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.armv7l-linux-musleabihf-libgfortran4-mpi+mpich.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.armv7l-linux-musleabihf-libgfortran4-mpi+mpich.tar.gz"
 [[MAGEMin]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -433,7 +444,7 @@ os = "linux"
 
     [[MAGEMin.download]]
     sha256 = "fab8ae6464ec43f72fc3c2e0c2bce45c5ee6a623a9862abea343410573d88766"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.armv7l-linux-musleabihf-libgfortran5-mpi+mpich.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.armv7l-linux-musleabihf-libgfortran5-mpi+mpich.tar.gz"
 [[MAGEMin]]
 arch = "i686"
 git-tree-sha1 = "fe4cd26b4b2cadaccfd1e048c773b4614a3bde1e"
@@ -445,7 +456,7 @@ os = "linux"
 
     [[MAGEMin.download]]
     sha256 = "6481482e4f947e6d9747d5bfeac56117a0bbdc8167d1a7bfd5b7b1241b1026cb"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.i686-linux-gnu-libgfortran3-mpi+mpich.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.i686-linux-gnu-libgfortran3-mpi+mpich.tar.gz"
 [[MAGEMin]]
 arch = "i686"
 git-tree-sha1 = "eecc117226a178e29d9b8ae3bdd79e09f29fb593"
@@ -457,7 +468,7 @@ os = "linux"
 
     [[MAGEMin.download]]
     sha256 = "bd483d1d6dfa724d3acce2d1977188ad4711b9a79bbc60af42e393a25cd8bf2a"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.i686-linux-gnu-libgfortran3-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.i686-linux-gnu-libgfortran3-mpi+mpitrampoline.tar.gz"
 [[MAGEMin]]
 arch = "i686"
 git-tree-sha1 = "c48b6ebc73cb93bdb47c99fb64b7b085179e08e3"
@@ -469,7 +480,7 @@ os = "linux"
 
     [[MAGEMin.download]]
     sha256 = "56f9c2a3de84d00e48f1974ae2877558bfecd518bc7f4bcd336d6dd5841cdfd7"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.i686-linux-gnu-libgfortran4-mpi+mpich.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.i686-linux-gnu-libgfortran4-mpi+mpich.tar.gz"
 [[MAGEMin]]
 arch = "i686"
 git-tree-sha1 = "e4ba3ded84689ce0dc824f4421cded62d121b9c1"
@@ -481,7 +492,7 @@ os = "linux"
 
     [[MAGEMin.download]]
     sha256 = "23c4ad39a0c43e2947be4265355d63c8ee9bf0cdfc0a5056ded4f5864bfe7510"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.i686-linux-gnu-libgfortran4-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.i686-linux-gnu-libgfortran4-mpi+mpitrampoline.tar.gz"
 [[MAGEMin]]
 arch = "i686"
 git-tree-sha1 = "c7a6d7056b4f8715811c78150c88814cb35b9232"
@@ -493,7 +504,7 @@ os = "linux"
 
     [[MAGEMin.download]]
     sha256 = "ffc2a57c044e9f09d38c702726d3f92da96f30f64ec2386a7f9a5ece4b53ec7a"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.i686-linux-gnu-libgfortran5-mpi+mpich.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.i686-linux-gnu-libgfortran5-mpi+mpich.tar.gz"
 [[MAGEMin]]
 arch = "i686"
 git-tree-sha1 = "badd701c3473b6e93f67439ce310b70f26d61a9e"
@@ -505,7 +516,7 @@ os = "linux"
 
     [[MAGEMin.download]]
     sha256 = "4d077d370a16ded44673e3b28f2ed92bda173c462d8a764d36c1b665eb6c6cd5"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.i686-linux-gnu-libgfortran5-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.i686-linux-gnu-libgfortran5-mpi+mpitrampoline.tar.gz"
 [[MAGEMin]]
 arch = "i686"
 git-tree-sha1 = "27bb0dc100144d693a02b6d0fef2118559e080ce"
@@ -517,7 +528,7 @@ os = "linux"
 
     [[MAGEMin.download]]
     sha256 = "4dd3a0e902a754efb7346c16ee0bc627c1c8758fde3ec29597751c0176a73fa7"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.i686-linux-musl-libgfortran3-mpi+mpich.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.i686-linux-musl-libgfortran3-mpi+mpich.tar.gz"
 [[MAGEMin]]
 arch = "i686"
 git-tree-sha1 = "4e340e288dccf2d2ceb3ab14c5092361a1960932"
@@ -529,7 +540,7 @@ os = "linux"
 
     [[MAGEMin.download]]
     sha256 = "afd0cf86922b2a114fe2da693b7427c2e3e4948cab6f60ffc9bdbd52cef07ab5"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.i686-linux-musl-libgfortran4-mpi+mpich.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.i686-linux-musl-libgfortran4-mpi+mpich.tar.gz"
 [[MAGEMin]]
 arch = "i686"
 git-tree-sha1 = "63b170f9492af6695ce4430621526b97bd47fe81"
@@ -541,7 +552,7 @@ os = "linux"
 
     [[MAGEMin.download]]
     sha256 = "5bb910ea1570ba1d2ec735d44255fd034cd13db13d81dbc3fc5ed6a939cbbef3"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.i686-linux-musl-libgfortran5-mpi+mpich.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.i686-linux-musl-libgfortran5-mpi+mpich.tar.gz"
 [[MAGEMin]]
 arch = "i686"
 git-tree-sha1 = "0d4df6bca192c984a825a20eddbb1b4222eb9018"
@@ -552,7 +563,7 @@ os = "windows"
 
     [[MAGEMin.download]]
     sha256 = "a34a102e08644afe5510a7f45b4551c899a4faa41a329af78dbd3b06001008d2"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.i686-w64-mingw32-libgfortran3-mpi+microsoftmpi.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.i686-w64-mingw32-libgfortran3-mpi+microsoftmpi.tar.gz"
 [[MAGEMin]]
 arch = "i686"
 git-tree-sha1 = "235498b7d3b50c43b7580bf7d732141625ac772e"
@@ -563,7 +574,7 @@ os = "windows"
 
     [[MAGEMin.download]]
     sha256 = "f9377cfb4ae14b0717ea0eb62aa83aa0251cafabf97d52aaa6a5bf236d0988c3"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.i686-w64-mingw32-libgfortran4-mpi+microsoftmpi.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.i686-w64-mingw32-libgfortran4-mpi+microsoftmpi.tar.gz"
 [[MAGEMin]]
 arch = "i686"
 git-tree-sha1 = "bad8896176edbbd3e6354c6e936790c3b2000ed8"
@@ -574,7 +585,7 @@ os = "windows"
 
     [[MAGEMin.download]]
     sha256 = "26be57fbef4ed9e48c0e10450bc9e5423c15c1f1f91fb200148e53ebe12df0b9"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.i686-w64-mingw32-libgfortran5-mpi+microsoftmpi.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.i686-w64-mingw32-libgfortran5-mpi+microsoftmpi.tar.gz"
 [[MAGEMin]]
 arch = "powerpc64le"
 git-tree-sha1 = "4f5306f3ff023b46c2c600aeeef595f1bbb4836d"
@@ -586,7 +597,7 @@ os = "linux"
 
     [[MAGEMin.download]]
     sha256 = "b9c12cd267d19231caeaefa59d2a20cf386b8f2e3828fd5e8a2aa863f5ee5357"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.powerpc64le-linux-gnu-libgfortran3-mpi+mpich.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.powerpc64le-linux-gnu-libgfortran3-mpi+mpich.tar.gz"
 [[MAGEMin]]
 arch = "powerpc64le"
 git-tree-sha1 = "4288ae19b613949ab26ba29d083afa90ebf64ea7"
@@ -598,7 +609,7 @@ os = "linux"
 
     [[MAGEMin.download]]
     sha256 = "fb61f990c1ae87d605d5f5a99ac45c9008cc68792ab596dcd352f6150228220d"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.powerpc64le-linux-gnu-libgfortran3-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.powerpc64le-linux-gnu-libgfortran3-mpi+mpitrampoline.tar.gz"
 [[MAGEMin]]
 arch = "powerpc64le"
 git-tree-sha1 = "f096777e55e52d58410095437ee1742b5d9db3c9"
@@ -610,7 +621,7 @@ os = "linux"
 
     [[MAGEMin.download]]
     sha256 = "f44b3766058115cc21c5fa980829c7da848a78c3b50511ac69a346d486033435"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.powerpc64le-linux-gnu-libgfortran3-mpi+openmpi.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.powerpc64le-linux-gnu-libgfortran3-mpi+openmpi.tar.gz"
 [[MAGEMin]]
 arch = "powerpc64le"
 git-tree-sha1 = "70a0a091821885b5e7ec29e143cacf009ba7f966"
@@ -622,7 +633,7 @@ os = "linux"
 
     [[MAGEMin.download]]
     sha256 = "774cd175b6f764dd3d652336c69e072132d51a6eca6f551c26fb8718b003c8ff"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.powerpc64le-linux-gnu-libgfortran4-mpi+mpich.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.powerpc64le-linux-gnu-libgfortran4-mpi+mpich.tar.gz"
 [[MAGEMin]]
 arch = "powerpc64le"
 git-tree-sha1 = "d382ffedef217bf13f90301b6279f101a2a65c37"
@@ -634,7 +645,7 @@ os = "linux"
 
     [[MAGEMin.download]]
     sha256 = "a446ea25f1490e031147ebbfcb938ebbb6a8ecf881cc176aff57ed4252558afa"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.powerpc64le-linux-gnu-libgfortran4-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.powerpc64le-linux-gnu-libgfortran4-mpi+mpitrampoline.tar.gz"
 [[MAGEMin]]
 arch = "powerpc64le"
 git-tree-sha1 = "72bfd4241b20a331494806577b60b4c23eafa454"
@@ -646,7 +657,7 @@ os = "linux"
 
     [[MAGEMin.download]]
     sha256 = "e4477b5e7b061468e9ff88358a601b6dc3e56a76fbaa2490a35d5bf08300494d"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.powerpc64le-linux-gnu-libgfortran4-mpi+openmpi.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.powerpc64le-linux-gnu-libgfortran4-mpi+openmpi.tar.gz"
 [[MAGEMin]]
 arch = "powerpc64le"
 git-tree-sha1 = "4639fcf7a628deb03d79740d31a80570e56ab741"
@@ -658,7 +669,7 @@ os = "linux"
 
     [[MAGEMin.download]]
     sha256 = "5220c501bfa6751f518b6aad30ebed9d57c7956346af00145a4823dd53b6dc67"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.powerpc64le-linux-gnu-libgfortran5-mpi+mpich.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.powerpc64le-linux-gnu-libgfortran5-mpi+mpich.tar.gz"
 [[MAGEMin]]
 arch = "powerpc64le"
 git-tree-sha1 = "0e843aba02e198e6b5d894c3f338d373e357cff1"
@@ -670,7 +681,7 @@ os = "linux"
 
     [[MAGEMin.download]]
     sha256 = "59f0307646bb0fab5e90a914270adf5954361eb29f64180ff479dba24f60442c"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.powerpc64le-linux-gnu-libgfortran5-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.powerpc64le-linux-gnu-libgfortran5-mpi+mpitrampoline.tar.gz"
 [[MAGEMin]]
 arch = "powerpc64le"
 git-tree-sha1 = "fc0fefb8b0f72be6d729301fae68c1383ead51c4"
@@ -682,7 +693,7 @@ os = "linux"
 
     [[MAGEMin.download]]
     sha256 = "775e81bc38f521fc2794a2c9eb043e1925ad2d85de5a955c1b41dfcd3fff957d"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.powerpc64le-linux-gnu-libgfortran5-mpi+openmpi.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.powerpc64le-linux-gnu-libgfortran5-mpi+openmpi.tar.gz"
 [[MAGEMin]]
 arch = "x86_64"
 git-tree-sha1 = "a02c34b05c475f15d14d81e658a59242521561f6"
@@ -693,7 +704,7 @@ os = "macos"
 
     [[MAGEMin.download]]
     sha256 = "4ab245aeb82a09fb812821d0bd3cfb2c369ec9c9b3e48920b9521f926824fc1b"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.x86_64-apple-darwin-libgfortran3-mpi+mpich.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.x86_64-apple-darwin-libgfortran3-mpi+mpich.tar.gz"
 [[MAGEMin]]
 arch = "x86_64"
 git-tree-sha1 = "01893a53913d5abe1f5f71c668e45e418508e1bb"
@@ -704,7 +715,7 @@ os = "macos"
 
     [[MAGEMin.download]]
     sha256 = "a8240324ae681b673556b73e012cca88c452b1c0986f42cd1c3bfcb10b06afd7"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.x86_64-apple-darwin-libgfortran3-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.x86_64-apple-darwin-libgfortran3-mpi+mpitrampoline.tar.gz"
 [[MAGEMin]]
 arch = "x86_64"
 git-tree-sha1 = "fc158b38021f07e5e6750ec803abd9b1cf8abc91"
@@ -715,7 +726,7 @@ os = "macos"
 
     [[MAGEMin.download]]
     sha256 = "5e2c5a5e1e8dcfa0a6a9b387cb4d289cf1c0e35a01649cddd097fe3fb4511fc7"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.x86_64-apple-darwin-libgfortran3-mpi+openmpi.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.x86_64-apple-darwin-libgfortran3-mpi+openmpi.tar.gz"
 [[MAGEMin]]
 arch = "x86_64"
 git-tree-sha1 = "a02c34b05c475f15d14d81e658a59242521561f6"
@@ -726,7 +737,7 @@ os = "macos"
 
     [[MAGEMin.download]]
     sha256 = "4ab245aeb82a09fb812821d0bd3cfb2c369ec9c9b3e48920b9521f926824fc1b"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.x86_64-apple-darwin-libgfortran4-mpi+mpich.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.x86_64-apple-darwin-libgfortran4-mpi+mpich.tar.gz"
 [[MAGEMin]]
 arch = "x86_64"
 git-tree-sha1 = "01893a53913d5abe1f5f71c668e45e418508e1bb"
@@ -737,7 +748,7 @@ os = "macos"
 
     [[MAGEMin.download]]
     sha256 = "a8240324ae681b673556b73e012cca88c452b1c0986f42cd1c3bfcb10b06afd7"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.x86_64-apple-darwin-libgfortran4-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.x86_64-apple-darwin-libgfortran4-mpi+mpitrampoline.tar.gz"
 [[MAGEMin]]
 arch = "x86_64"
 git-tree-sha1 = "fc158b38021f07e5e6750ec803abd9b1cf8abc91"
@@ -748,7 +759,7 @@ os = "macos"
 
     [[MAGEMin.download]]
     sha256 = "5e2c5a5e1e8dcfa0a6a9b387cb4d289cf1c0e35a01649cddd097fe3fb4511fc7"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.x86_64-apple-darwin-libgfortran4-mpi+openmpi.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.x86_64-apple-darwin-libgfortran4-mpi+openmpi.tar.gz"
 [[MAGEMin]]
 arch = "x86_64"
 git-tree-sha1 = "a02c34b05c475f15d14d81e658a59242521561f6"
@@ -759,7 +770,7 @@ os = "macos"
 
     [[MAGEMin.download]]
     sha256 = "4ab245aeb82a09fb812821d0bd3cfb2c369ec9c9b3e48920b9521f926824fc1b"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.x86_64-apple-darwin-libgfortran5-mpi+mpich.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.x86_64-apple-darwin-libgfortran5-mpi+mpich.tar.gz"
 [[MAGEMin]]
 arch = "x86_64"
 git-tree-sha1 = "01893a53913d5abe1f5f71c668e45e418508e1bb"
@@ -770,7 +781,7 @@ os = "macos"
 
     [[MAGEMin.download]]
     sha256 = "a8240324ae681b673556b73e012cca88c452b1c0986f42cd1c3bfcb10b06afd7"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.x86_64-apple-darwin-libgfortran5-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.x86_64-apple-darwin-libgfortran5-mpi+mpitrampoline.tar.gz"
 [[MAGEMin]]
 arch = "x86_64"
 git-tree-sha1 = "fc158b38021f07e5e6750ec803abd9b1cf8abc91"
@@ -781,7 +792,7 @@ os = "macos"
 
     [[MAGEMin.download]]
     sha256 = "5e2c5a5e1e8dcfa0a6a9b387cb4d289cf1c0e35a01649cddd097fe3fb4511fc7"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.x86_64-apple-darwin-libgfortran5-mpi+openmpi.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.x86_64-apple-darwin-libgfortran5-mpi+openmpi.tar.gz"
 [[MAGEMin]]
 arch = "x86_64"
 git-tree-sha1 = "d2e9eb79a07ca85217b33fbf859a3f74da1c8d91"
@@ -793,7 +804,7 @@ os = "linux"
 
     [[MAGEMin.download]]
     sha256 = "2b28acbfc8bb385c33b908308b685e7f6a7d68c7195200ece21145af20aff21a"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.x86_64-linux-gnu-libgfortran3-mpi+mpich.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.x86_64-linux-gnu-libgfortran3-mpi+mpich.tar.gz"
 [[MAGEMin]]
 arch = "x86_64"
 git-tree-sha1 = "6c6c25ea160c9d72cd8003139dcdfc416555025c"
@@ -805,7 +816,7 @@ os = "linux"
 
     [[MAGEMin.download]]
     sha256 = "ed994c2d72e82fabdf93af7ab3a7cb0035563674bd7182a45874ae9d32df13c9"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.x86_64-linux-gnu-libgfortran3-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.x86_64-linux-gnu-libgfortran3-mpi+mpitrampoline.tar.gz"
 [[MAGEMin]]
 arch = "x86_64"
 git-tree-sha1 = "20adf717ae54bcd5ae23143c5b1ffabb66e73af0"
@@ -817,7 +828,7 @@ os = "linux"
 
     [[MAGEMin.download]]
     sha256 = "c71d7b14a864e7cce651c3bf31532f00dad4d7ca7b172a69dc14224ba583579b"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.x86_64-linux-gnu-libgfortran3-mpi+openmpi.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.x86_64-linux-gnu-libgfortran3-mpi+openmpi.tar.gz"
 [[MAGEMin]]
 arch = "x86_64"
 git-tree-sha1 = "ffe5eeb36608f5199df28f417862fc2ae5eece22"
@@ -829,7 +840,7 @@ os = "linux"
 
     [[MAGEMin.download]]
     sha256 = "517aeb262c1c1a42f07aa60b2060afe019dbec4baec56038898ef5fa83c69b10"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.x86_64-linux-gnu-libgfortran4-mpi+mpich.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.x86_64-linux-gnu-libgfortran4-mpi+mpich.tar.gz"
 [[MAGEMin]]
 arch = "x86_64"
 git-tree-sha1 = "cfa76b69307cfc7ded9bc98d9137bf00f144e68c"
@@ -841,7 +852,7 @@ os = "linux"
 
     [[MAGEMin.download]]
     sha256 = "4570519faa5f48fdd7a94b2bb645a4b8129368feef42c9f984a74afb533d8fb7"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.x86_64-linux-gnu-libgfortran4-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.x86_64-linux-gnu-libgfortran4-mpi+mpitrampoline.tar.gz"
 [[MAGEMin]]
 arch = "x86_64"
 git-tree-sha1 = "27b581e8593e434b115ca1c4accb5813b52e7b04"
@@ -853,7 +864,7 @@ os = "linux"
 
     [[MAGEMin.download]]
     sha256 = "4c3920e8af6f5f660cc7fbe7a35f8837a6ceb0c312c6f08998c082d07589849e"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.x86_64-linux-gnu-libgfortran4-mpi+openmpi.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.x86_64-linux-gnu-libgfortran4-mpi+openmpi.tar.gz"
 [[MAGEMin]]
 arch = "x86_64"
 git-tree-sha1 = "52405e7540573dfc945f35adcb988e6d90c6f269"
@@ -865,7 +876,7 @@ os = "linux"
 
     [[MAGEMin.download]]
     sha256 = "88b942bd91a3a4bbbe75c2724804e1851510777d1ff740cd29a29772459ee7ef"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.x86_64-linux-gnu-libgfortran5-mpi+mpich.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.x86_64-linux-gnu-libgfortran5-mpi+mpich.tar.gz"
 [[MAGEMin]]
 arch = "x86_64"
 git-tree-sha1 = "7691601ba75b42626e8a1bf0c4352070f9d63ec4"
@@ -877,7 +888,7 @@ os = "linux"
 
     [[MAGEMin.download]]
     sha256 = "8221cf60c35774242668ac83b15e2b64f8851bafc98a65a6386e260414144f15"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.x86_64-linux-gnu-libgfortran5-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.x86_64-linux-gnu-libgfortran5-mpi+mpitrampoline.tar.gz"
 [[MAGEMin]]
 arch = "x86_64"
 git-tree-sha1 = "7514fd84e429baf74af74a8a6e14e4de8ba3d08d"
@@ -889,7 +900,7 @@ os = "linux"
 
     [[MAGEMin.download]]
     sha256 = "8bce0b0bf92eebefb0bbf16824f4a28d37f426450e8851e250a25267a03c7a1a"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.x86_64-linux-gnu-libgfortran5-mpi+openmpi.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.x86_64-linux-gnu-libgfortran5-mpi+openmpi.tar.gz"
 [[MAGEMin]]
 arch = "x86_64"
 git-tree-sha1 = "4eb9263a30176445b002f049560c89ffdf4428c4"
@@ -901,7 +912,7 @@ os = "linux"
 
     [[MAGEMin.download]]
     sha256 = "0f3a78f454665d3f413e9a3eb8c7478d1c5774a7d3c3166866637d47fec9830e"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.x86_64-linux-musl-libgfortran3-mpi+mpich.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.x86_64-linux-musl-libgfortran3-mpi+mpich.tar.gz"
 [[MAGEMin]]
 arch = "x86_64"
 git-tree-sha1 = "2540e70698ef2448220cd52d41d659ab1095e68b"
@@ -913,7 +924,7 @@ os = "linux"
 
     [[MAGEMin.download]]
     sha256 = "7b0d946efebc5e3c9c4eeca6a6c440b768d2c4e4a3342a3ddd1e4763abb2e7bd"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.x86_64-linux-musl-libgfortran4-mpi+mpich.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.x86_64-linux-musl-libgfortran4-mpi+mpich.tar.gz"
 [[MAGEMin]]
 arch = "x86_64"
 git-tree-sha1 = "b78ae536a9154d6103e51c9cb6cae3deeeb2157f"
@@ -925,7 +936,7 @@ os = "linux"
 
     [[MAGEMin.download]]
     sha256 = "24b9b4c643922ec68b51d8bba831ce819447b1bd8078aa96786a69150522e032"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.x86_64-linux-musl-libgfortran5-mpi+mpich.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.x86_64-linux-musl-libgfortran5-mpi+mpich.tar.gz"
 [[MAGEMin]]
 arch = "x86_64"
 git-tree-sha1 = "db5428551870b02dbbe5aa6378aca5a0c43f8d80"
@@ -936,7 +947,7 @@ os = "freebsd"
 
     [[MAGEMin.download]]
     sha256 = "3ed7d9d510413745c8237c1979e8f5e371e4426a150070041456db6e55f786e2"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.x86_64-unknown-freebsd-libgfortran3-mpi+mpich.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.x86_64-unknown-freebsd-libgfortran3-mpi+mpich.tar.gz"
 [[MAGEMin]]
 arch = "x86_64"
 git-tree-sha1 = "db5428551870b02dbbe5aa6378aca5a0c43f8d80"
@@ -947,7 +958,7 @@ os = "freebsd"
 
     [[MAGEMin.download]]
     sha256 = "3ed7d9d510413745c8237c1979e8f5e371e4426a150070041456db6e55f786e2"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.x86_64-unknown-freebsd-libgfortran4-mpi+mpich.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.x86_64-unknown-freebsd-libgfortran4-mpi+mpich.tar.gz"
 [[MAGEMin]]
 arch = "x86_64"
 git-tree-sha1 = "db5428551870b02dbbe5aa6378aca5a0c43f8d80"
@@ -958,7 +969,7 @@ os = "freebsd"
 
     [[MAGEMin.download]]
     sha256 = "3ed7d9d510413745c8237c1979e8f5e371e4426a150070041456db6e55f786e2"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.x86_64-unknown-freebsd-libgfortran5-mpi+mpich.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.x86_64-unknown-freebsd-libgfortran5-mpi+mpich.tar.gz"
 [[MAGEMin]]
 arch = "x86_64"
 git-tree-sha1 = "035dc74411da5e4686ba3843bb460b7e313476a0"
@@ -969,7 +980,7 @@ os = "windows"
 
     [[MAGEMin.download]]
     sha256 = "e955f3c8b9ddc97b1bc6e077104a3300aaec5c0cf9ae7bdf427c214e1768a39e"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.x86_64-w64-mingw32-libgfortran3-mpi+microsoftmpi.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.x86_64-w64-mingw32-libgfortran3-mpi+microsoftmpi.tar.gz"
 [[MAGEMin]]
 arch = "x86_64"
 git-tree-sha1 = "757e6fd3a9ccbaf39d7d9896b05c947e9f6b5635"
@@ -980,7 +991,7 @@ os = "windows"
 
     [[MAGEMin.download]]
     sha256 = "ea863405ca0244dad72ad04777d2137103f7819ace78573503359f144f570215"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.x86_64-w64-mingw32-libgfortran4-mpi+microsoftmpi.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.x86_64-w64-mingw32-libgfortran4-mpi+microsoftmpi.tar.gz"
 [[MAGEMin]]
 arch = "x86_64"
 git-tree-sha1 = "995dd299aead59669d4302fd9dc08433d8e71a8b"
@@ -991,15 +1002,4 @@ os = "windows"
 
     [[MAGEMin.download]]
     sha256 = "1c41524448552fd964acb65e40fc9453e8519cc6d485de64fdc5c4a81a1950c9"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.0+0/MAGEMin.v1.4.0.x86_64-w64-mingw32-libgfortran5-mpi+microsoftmpi.tar.gz"
-[[MAGEMin]]
-arch = "aarch64"
-git-tree-sha1 = "525c9ec95718402bc7e684cbca077c497724d873"
-lazy = true
-libgfortran_version = "5.0.0"
-mpi = "mpich"
-os = "macos"
-
-    [[MAGEMin.download]]
-    sha256 = "490fb99161e0f33ca625970defb980e1c601cb51f898ae745d88cf835743013c"
-    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.aarch64-apple-darwin-libgfortran5-mpi+mpich.tar.gz"
+    url = "https://github.com/boriskaus/MAGEMin_jll.jl/releases/download/MAGEMin-v1.4.1+0/MAGEMin.v1.4.1.x86_64-w64-mingw32-libgfortran5-mpi+microsoftmpi.tar.gz"

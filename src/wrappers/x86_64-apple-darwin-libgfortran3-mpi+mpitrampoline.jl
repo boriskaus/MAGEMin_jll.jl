@@ -2,13 +2,14 @@
 export MAGEMin, libMAGEMin
 
 using NLopt_jll
+using OpenBLAS32_jll
 using CompilerSupportLibraries_jll
 using MPItrampoline_jll
 JLLWrappers.@generate_wrapper_header("MAGEMin")
 JLLWrappers.@declare_library_product(libMAGEMin, "@rpath/libMAGEMin.dylib")
 JLLWrappers.@declare_executable_product(MAGEMin)
 function __init__()
-    JLLWrappers.@generate_init_header(NLopt_jll, CompilerSupportLibraries_jll, MPItrampoline_jll, MPIPreferences)
+    JLLWrappers.@generate_init_header(NLopt_jll, OpenBLAS32_jll, CompilerSupportLibraries_jll, MPItrampoline_jll, MPIPreferences)
     JLLWrappers.@init_library_product(
         libMAGEMin,
         "lib/libMAGEMin.dylib",
